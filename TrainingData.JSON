@@ -1,0 +1,10 @@
+{"data":  [
+  {"tag": "greetings",
+  "patterns": ["hello", "hi", "hey", "whatdup"],
+  "responses": ["Hi", "Hello", "How may I help you?"]
+  },
+  {"tag": "endconvo",
+  "patterns": ["goodbye", "see ya", "farewell", "bye"],
+  "responses": ["Goodbye", "Take care!", "Aww you leaving?"]
+  }
+]}
